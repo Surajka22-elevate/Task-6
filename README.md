@@ -1,3 +1,9 @@
+![image](https://github.com/user-attachments/assets/02c7f6eb-4630-428c-857a-b75a4988cd6b)
+![image](https://github.com/user-attachments/assets/65ec2805-7f5a-4704-9d76-eadd88c6a0be)
+![image](https://github.com/user-attachments/assets/f1ebf9f4-3c3d-4bb0-afe5-3d70d5f867e0)
+
+ 
+ 
  Task 6: Create a Strong Password and Evaluate Its Strength
 
  Objective
